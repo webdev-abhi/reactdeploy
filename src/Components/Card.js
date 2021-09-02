@@ -3,7 +3,7 @@ import React from 'react'
 const Users = ({loading,users}) => {
     return loading ? (   
           <div id="main">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Loading_icon.gif" alt="Loaading.." className="loader"/>
+            <img src="https://assets.materialup.com/uploads/728772c1-8cc3-4676-bd41-9b388475d485/preview.gif" alt="Loaading.." className="loader"/>
           </div>
         ) : 
         (
